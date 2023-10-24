@@ -8,7 +8,7 @@ Final project, Group # 195
 * Users connect and chat with others. (Yang)
 
 ## Key Snapshot of Software:
-* Before entering main page:
+* Before entering the main page:
   * If is new user: register and redirect to profile page.
   * If not: directly login to main page.
 * At main page:
